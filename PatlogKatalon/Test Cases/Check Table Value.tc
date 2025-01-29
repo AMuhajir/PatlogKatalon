@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check Table Value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a3022c5-6e3b-4093-96f9-e4e4a177f3dd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7587c3da-3389-495e-899f-a85ca4ad94cf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7587c3da-3389-495e-899f-a85ca4ad94cf</id>
+      <masked>false</masked>
+      <name>row1</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Overview (1)</name>
+   <tag></tag>
+   <elementGuidId>7f9d57e0-2ede-4ec8-bbc0-b5a132722a21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-scroll']/div/div[2]/div/div/div/nav/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Overview&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2b39b7eb-1f8d-4649-8300-66c88551dea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>side-menu__label</value>
+      <webElementGuid>90075d58-ec47-4601-a53f-157a466b90e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overview</value>
+      <webElementGuid>6ff76a1d-bf99-43f6-9f77-0c8ef695b67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-scroll&quot;)/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/nav[@class=&quot;main-menu-container nav nav-pills flex-column sub-open&quot;]/ul[@class=&quot;main-menu&quot;]/li[@class=&quot;slide&quot;]/a[@class=&quot;side-menu__item&quot;]/span[@class=&quot;side-menu__label&quot;]</value>
+      <webElementGuid>e63e3c12-ed23-4cde-ba55-2129745f4179</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-scroll']/div/div[2]/div/div/div/nav/ul/li[2]/a/span</value>
+      <webElementGuid>14c571a9-1892-41b0-9801-8a2df8250392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[1]</value>
+      <webElementGuid>12b7763d-3fbe-4391-a4a8-b639a654ad77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patra Logistik'])[2]/following::span[2]</value>
+      <webElementGuid>3a559aad-c1a3-43db-a6fc-646d6c5acd89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyaluran'])[1]/preceding::span[1]</value>
+      <webElementGuid>0667eec2-871c-4727-89a0-bdc661d5e215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peta'])[1]/preceding::span[2]</value>
+      <webElementGuid>1dad95cf-84cb-42a7-acca-c988bb614682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Overview']/parent::*</value>
+      <webElementGuid>9a8bfe25-4cb2-454c-8d8e-c28e14692d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>7f835230-926f-4f71-bc97-1f95f711783d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Overview' or . = 'Overview')]</value>
+      <webElementGuid>89516b4b-9e92-4187-b832-519ec5c3d809</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

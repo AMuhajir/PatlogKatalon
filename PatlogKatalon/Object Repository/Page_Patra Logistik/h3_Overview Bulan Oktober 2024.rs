@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Overview Bulan Oktober 2024</name>
+   <tag></tag>
+   <elementGuidId>b40f9c93-aea1-4c72-9220-49e475c5990d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#monthYearOverview</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[@id='monthYearOverview']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Overview Bulan Oktober 2024&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>2b970df9-4b7e-424a-9694-2bcf7c709b17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-title fw-semibold</value>
+      <webElementGuid>91ad83c2-8780-46a5-b40a-2707b030ad8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>monthYearOverview</value>
+      <webElementGuid>39eef140-c8c8-448d-90ce-fe07f699f6d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overview Bulan Oktober 2024</value>
+      <webElementGuid>69e13a82-b083-48a2-991a-8f0282284f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;monthYearOverview&quot;)</value>
+      <webElementGuid>bc7df6a9-634e-43d6-9d3a-e247dbbf9da0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h3[@id='monthYearOverview']</value>
+      <webElementGuid>9238e706-82bd-43b3-a4c9-fd7354ca99b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyaluran'])[1]/following::h3[1]</value>
+      <webElementGuid>d2da28fd-2fac-430f-9fc8-1b03d86af61c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::h3[1]</value>
+      <webElementGuid>aa060d20-5b47-403b-896e-8953826dd484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proyeksi Pendapatan'])[1]/preceding::h3[1]</value>
+      <webElementGuid>35a17db1-710e-4d0f-ac0f-1d454273358d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 19.873.908.700'])[1]/preceding::h3[1]</value>
+      <webElementGuid>28d61b5b-a0b6-41eb-a81e-b957b433e8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Overview Bulan Oktober 2024']/parent::*</value>
+      <webElementGuid>b0cd0ff1-eb39-4c94-9c8e-c24e6f9a400b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>c8374407-862b-4dfd-b431-cb0bb9005877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[@id = 'monthYearOverview' and (text() = 'Overview Bulan Oktober 2024' or . = 'Overview Bulan Oktober 2024')]</value>
+      <webElementGuid>f1c9821e-52da-459f-b119-4e636426453b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
