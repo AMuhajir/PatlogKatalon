@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,6 +22,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//[@id=&quot;dataTable&quot;]/tbody/tr[1]/td[2]</value>
-      <webElementGuid>90360061-b92c-4430-a7d4-b807fd9fc695</webElementGuid>
+      <webElementGuid>15f817f5-c129-462c-8f53-53f3174ab160</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
