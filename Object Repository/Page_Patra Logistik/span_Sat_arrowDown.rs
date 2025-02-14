@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sat_arrowDown</name>
+   <tag></tag>
+   <elementGuidId>c70a7dd6-1a41-4cae-9cff-4ac4a2b8304b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flatpickr-calendar.animate.open.arrowBottom.arrowLeft > div.flatpickr-months > div.flatpickr-month > div.flatpickr-current-month > div.numInputWrapper > span.arrowDown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(41) > .flatpickr-months > .flatpickr-month > .flatpickr-current-month > .numInputWrapper > .arrowDown</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c29185c5-54da-4ba2-ad9f-2fe361dd6fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrowDown</value>
+      <webElementGuid>62886801-bc5f-4d18-8458-54ab1ed20bf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;flatpickr-calendar animate open arrowBottom arrowLeft&quot;]/div[@class=&quot;flatpickr-months&quot;]/div[@class=&quot;flatpickr-month&quot;]/div[@class=&quot;flatpickr-current-month&quot;]/div[@class=&quot;numInputWrapper&quot;]/span[@class=&quot;arrowDown&quot;]</value>
+      <webElementGuid>ac7f4030-1a8f-4b3a-9ef7-c2ae54e8f7e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/span[2]</value>
+      <webElementGuid>f0ec1da7-7452-4e0c-bdbc-f48e74b69456</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check Table Value Overview - array</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34285228-4c5a-40c7-b69d-3ecee0783f7f</testCaseGuid>
+</TestCaseEntity>
